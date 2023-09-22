@@ -127,6 +127,7 @@ hr {
 
 .free-city-logo {
   max-width: 320px;
+  margin-right: 54px;
 }
 
 .logo a {
@@ -423,6 +424,7 @@ label {
 
 .margin {
   margin-left: 2em;
+  word-wrap: break-word;
 }
 
 @media only screen and (max-width: 860px) {
